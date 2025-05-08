@@ -1,1 +1,1 @@
-Made Using Django For API by Will Vincent
+Reference for making a REST API
